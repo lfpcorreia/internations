@@ -1,0 +1,9 @@
+security:
+    # https://symfony.com/doc/current/security.html#where-do-users-come-from-user-providers
+    providers:
+        in_memory:
+            memory:
+                users:
+                    admin:
+                        password: $2y$13$7Dd7feRO4o8LIdc7Oh5sFOEXVjT6bvEHL1jylfOgZ0cpT0TtDzpv.
+                        roles: 'ROLE_ADMIN'
