@@ -89,6 +89,6 @@ For having a look at my solution in your local machine please do:
 ![DB schema screenshot](https://github.com/lfpcorreia/internations/raw/master/schema.png)
 
 
-![Domain model screenshot](https://github.com/nosarthur/internations/raw/master/domainmodel.png)
+![Domain model screenshot](https://github.com/lfpcorreia/internations/raw/master/domainmodel.png)
 
 
